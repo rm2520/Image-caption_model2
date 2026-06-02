@@ -41,14 +41,17 @@ I use Encoder as Efficientnet to extract features from image and Decoder as Tran
 ### Arabic Flickr8k
 
 | BLEU-1 | BLEU-4 | METEOR | CIDEr | ROUGE |
+
 | 49.8   | 12.2   | 0.362  | 0.330 | 0.37  |
 
 ### Arabic MS-COCO
 | BLEU-1 | BLEU-4 | METEOR | CIDEr | ROUGE |
+
 | 43.2   | 8.2    | 0.310  | 0.280 | 0.33 |
 
 ### ERI-AIC (Proposed Dataset)
 | BLEU-1 | BLEU-4 | METEOR | CIDEr | ROUGE |
+
 | 65.1   | 21.4   |0.430   | 0.380 | 0.39  |
 
 #  Training and Validation
